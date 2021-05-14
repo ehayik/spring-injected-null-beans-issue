@@ -1,5 +1,5 @@
 
-# Spring injected beans are null using Lombock and Constructor Injection
+# Spring injected beans are null using Lombok and Constructor Injection
 
 When I was migrating a maven project implemented with Spring to Spring Boot 1.5.20.RELEASE.
 I realized of this issue related with a ``final public`` method inside a non ``final`` class annotated
